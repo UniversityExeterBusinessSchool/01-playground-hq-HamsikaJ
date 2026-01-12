@@ -8,4 +8,4 @@ I'm expected to build a pattern of 5 ascending rows with decreasing columns
 An ascending 5 row wall
 
 ## Questions I Have
-[What don't you know yet?]
+
